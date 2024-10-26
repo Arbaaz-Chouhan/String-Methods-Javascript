@@ -1,0 +1,30 @@
+const result1 = String.fromCharCode(65);
+const result2 = String.fromCharCode(114);
+const result3 = String.fromCharCode(98);
+const result4 = String.fromCharCode(97);
+const result5 = String.fromCharCode(97);
+const result6 = String.fromCharCode(122);
+const result7 = String.fromCharCode(32);
+const result8 = String.fromCharCode(99);
+const result9 = String.fromCharCode(104);
+const result10 = String.fromCharCode(111);
+const result11 = String.fromCharCode(117);
+const result12 = String.fromCharCode(104);
+const result13 = String.fromCharCode(97);
+const result14 = String.fromCharCode(110);
+
+console.log(result1);
+console.log(result2);
+console.log(result3);
+console.log(result4);
+console.log(result5);
+console.log(result6);
+console.log(result7);
+console.log(result8);
+console.log(result9);
+console.log(result10);
+console.log(result11);
+console.log(result12);
+console.log(result13);
+console.log(result14);
+
